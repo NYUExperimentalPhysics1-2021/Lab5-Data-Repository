@@ -10,7 +10,7 @@ Log into github desktop on the lab computer
 
 ![github_signin](https://user-images.githubusercontent.com/237963/137568522-e5ff801c-45ed-4083-946f-45c077640ae3.png)
 
-Accept the assignment link from: https://classroom.github.com/a/k7KLa3FW
+Accept the assignment link from: https://classroom.github.com/a/16dKABGC
 
 Clone the repository you created by accepting the assignment. The repository name will be NYUExperimentalPhysics1-2021/lab4-individual-data-**your github username** Make sure you include your username (don't clone the template repository; you won't be able to push changes later)
 
